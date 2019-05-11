@@ -1,0 +1,12 @@
+visitar repositorio
+dar fork
+git clone https://github.com/RenanBaldo/ads-pullrequest-activity.git
+cd ads-pullrequest-activity/
+ls
+touch 18000051.txt
+vi 18000051.txt
+git add .
+git commit -m "envio do arquivo"
+git status
+git push origin master
+git log
